@@ -8,10 +8,10 @@ STUDENTS_FALLBACK = [
     {"id": 3, "name": "Martin", "surname": "Jelínek", "nickname": "král jelimán", "image": "https://api.sportnet.online/v1/ppo/futbalsfz.sk/users/68c9112594d10f7e9dd591c4/formal-photo/94387b0f-c431-49e2-b562-6a357f415c2d", "bio": "............"},
     {"id": 4, "name": "Daniel", "surname": "Barta", "nickname": "skeleton", "image": "https://picsum.photos/id/1014/300/200", "bio": "..........."},
     {"id": 5, "name": "Matej", "surname": "Randziak", "nickname": "tankista", "image": "https://picsum.photos/id/1015/300/200", "bio": "..........."},
-    {"id": 6, "name": "Matúš", "surname": "Bucko", "nickname": "xxxxxxxx", "image": "https://picsum.photos/id/1016/300/200", "bio": "Nechcelo sa mi toto vobec robiť."},
-    {"id": 7, "name": "Janka", "surname": "Vargová", "nickname": "xxxxxxxxx", "image": "https://picsum.photos/id/1018/300/200", "bio": "Má fakt divné hlášky."},
-    {"id": 8, "name": "Matúš", "surname": "Holečka", "nickname": "xxxxxxxxxx", "image": "https://picsum.photos/id/1019/300/200", "bio": "............"},
-    {"id": 9, "name": "Marko", "surname": "Mihalička", "nickname": "xxxxxxxxxx", "image": "https://picsum.photos/id/1020/300/200", "bio": "............"},
+    {"id": 6, "name": "Matúš", "surname": "Bucko", "nickname": "cháber", "image": "https://picsum.photos/id/1016/300/200", "bio": "Nechcelo sa mi toto vobec robiť."},
+    {"id": 7, "name": "Janka", "surname": "Vargová", "nickname": "anime queen", "image": "https://picsum.photos/id/1018/300/200", "bio": "Má fakt divné hlášky."},
+    {"id": 8, "name": "Matúš", "surname": "Holečka", "nickname": "to ten dredatý", "image": "https://picsum.photos/id/1019/300/200", "bio": "............"},
+    {"id": 9, "name": "Marko", "surname": "Mihalička", "nickname": "holečka gang member", "image": "https://picsum.photos/id/1020/300/200", "bio": "............"},
     {"id": 10, "name": "Lukáš", "surname": "Vindiš", "nickname": "žirafa", "image": "https://picsum.photos/id/1021/300/200", "bio": "............"},
 ]
 
