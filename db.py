@@ -6,7 +6,7 @@ STUDENTS_FALLBACK = [
     {"id": 1, "name": "Adrian", "surname": "Červenka", "nickname": "chilli pepper", "image": "https://picsum.photos/id/1011/300/200", "bio": "Má fakt divné hlášky."},
     {"id": 2, "name": "Milan", "surname": "Kokina", "nickname": "tanečník", "image": "https://api.sportnet.online/v1/ppo/futbalsfz.sk/users/5efee63f1b04f230d150c5ce/formal-photo/e18f5e4d-9a8d-4196-9e18-30ebf1b60dc4", "bio": "Nechcelo sa mi toto vobec robiť."},
     {"id": 3, "name": "Martin", "surname": "Jelínek", "nickname": "král jelimán", "image": "https://api.sportnet.online/v1/ppo/futbalsfz.sk/users/68c9112594d10f7e9dd591c4/formal-photo/94387b0f-c431-49e2-b562-6a357f415c2d", "bio": "............"},
-    {"id": 4, "name": "Daniel", "surname": "Barta", "nickname": "skeleton", "image": "https://i.pinimg.com/736x/25/55/58/2555582b5bbca31dddd5f2a22d8d9400.jpg, "bio": "..........."},
+    {"id": 4, "name": "Daniel", "surname": "Barta", "nickname": "skeleton", "image": "https://i.pinimg.com/736x/25/55/58/2555582b5bbca31dddd5f2a22d8d9400", "bio": "..........."},
     {"id": 5, "name": "Matej", "surname": "Randziak", "nickname": "tankista", "image": "https://picsum.photos/id/1015/300/200", "bio": "..........."},
     {"id": 6, "name": "Matúš", "surname": "Bucko", "nickname": "cháber", "image": "https://picsum.photos/id/1016/300/200", "bio": "Nechcelo sa mi toto vobec robiť."},
     {"id": 7, "name": "Janka", "surname": "Vargová", "nickname": "anime queen", "image": "https://picsum.photos/id/1018/300/200", "bio": "Má fakt divné hlášky."},
